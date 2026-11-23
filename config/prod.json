@@ -1,0 +1,6 @@
+
+{
+  "environment": "prod",
+  "port": 3003,
+  "database": "mongodb://localhost:27017/app_prod"
+}
